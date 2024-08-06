@@ -1,2 +1,2 @@
 # larissa
-Free GTK RSS reader for Linux
+RSS reader for Linux
